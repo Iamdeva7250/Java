@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Basics/01-Basics.iml" filepath="$PROJECT_DIR$/01-Basics/01-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/01-basics/01-basics.iml" filepath="$PROJECT_DIR$/Lecture/01-basics/01-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/02-Data Types Variable Input/02-Data Types Variable Input.iml" filepath="$PROJECT_DIR$/Lecture/02-Data Types Variable Input/02-Data Types Variable Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/03-Operator if Else Number System/03-Operator if Else Number System.iml" filepath="$PROJECT_DIR$/Lecture/03-Operator if Else Number System/03-Operator if Else Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/Lecture.iml" filepath="$PROJECT_DIR$/Lecture/Lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/01-basics/Question001/Question001.iml" filepath="$PROJECT_DIR$/Lecture/01-basics/Question001/Question001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/01-basics/Question/Question01.iml" filepath="$PROJECT_DIR$/Lecture/01-basics/Question/Question01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/02-Data Types Variable Input/Question02/Question02.iml" filepath="$PROJECT_DIR$/Lecture/02-Data Types Variable Input/Question02/Question02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture/03-Operator if Else Number System/Question03/Question03.iml" filepath="$PROJECT_DIR$/Lecture/03-Operator if Else Number System/Question03/Question03.iml" />
+    </modules>
+  </component>
+</project>
